@@ -4,6 +4,9 @@
 
 본 프로젝트는 LogicWorks를 활용하여 자판기의 기능을 회로로 구현한 디지털 시스템 설계 과제입니다. 컴퓨터구성 과목에서 학습한 **ALU, BCD, MUX, Adder, Subtractor** 등의 이론을 바탕으로, 실제 동작하는 자판기 회로를 설계 및 구현하는 것을 목표로 하였습니다.
 
+## 전체 설계
+<img width="1392" height="1347" alt="Image" src="https://github.com/user-attachments/assets/b0923c7d-4b4d-45db-90b7-21b20608644d" />
+
 ---
 
 ## 🎯 주요 기능
