@@ -52,17 +52,3 @@
 - 📦 **음료 재고 관리**: 최대 2개 재고 유지, 0일 경우 구매 불가 처리
 
 ---
-
-## 🗂 프로젝트 구성
-
-```plaintext
-📦 vending-machine-logicworks
- ┣ 📂 circuits
- ┃ ┣ main_vending_machine.cct
- ┃ ┣ drinks.cct
- ┃ ┗ led_checker.cct
- ┣ 📂 images
- ┃ ┗ mintchoco_symbol.png
- ┣ 📂 docs
- ┃ ┗ circuit_explanation.md
- ┗ README.md
